@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "../lib/resume.css";
+
+body {
+  margin: 0;
+  background: #e7e2d8;
+  color: #1c1915;
+  font-family: "Heiti SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
